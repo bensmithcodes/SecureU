@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory" in src folde", you can run:
+In the project directory" in src folder", you can run:
 ## `npm install react-scripts --save`
 ### `npm start`
 
